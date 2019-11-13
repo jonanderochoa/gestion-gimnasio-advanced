@@ -19,7 +19,7 @@
 		<artifact.jar>gestion-gimnasio-common</artifact.jar>
 		<artifact.ejb>gestion-gimnasio-ejb</artifact.ejb>
 		<project.version>0.0.1-SNAPSHOT</project.version>
-		<jackson.library>2.7.5</jackson.library>
+		<jackson.library>2.9.10.1</jackson.library>
 		<springfox-swagger>2.4.0</springfox-swagger>
 		<org.springsecurity-version>4.2.2.RELEASE</org.springsecurity-version>
 	</properties>
