@@ -21,7 +21,7 @@
 		<project.version>0.0.1-SNAPSHOT</project.version>
 		<jackson.library>2.7.5</jackson.library>
 		<springfox-swagger>2.4.0</springfox-swagger>
-		<org.springsecurity-version>4.2.2.RELEASE</org.springsecurity-version>
+		<org.springsecurity-version>5.2.10.RELEASE</org.springsecurity-version>
 	</properties>
 	<dependencies>
 		<!-- Spring Security -->
